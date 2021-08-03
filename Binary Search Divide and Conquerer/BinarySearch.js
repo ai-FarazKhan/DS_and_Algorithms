@@ -1,0 +1,1 @@
+// Divide and Conquerer Technique. Array ko divide karaingain 2 parts main. Issay faida yeh hoga ke Number of iterations jo hain woh kam hojaingain. Loop harjagah na chalay, bas waheen chalay jahan need hai.
